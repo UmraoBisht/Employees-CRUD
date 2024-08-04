@@ -25,8 +25,8 @@ A simple CRUD application where users can see a list of Employees and add a new 
 
 
 ```bash
-git clone https://github.com/yourusername/employee-crud.git
-cd employee-crud
+https://github.com/UmraoBisht/Employees-CRUD.git
+cd Employees-CRUD
 ```
 
 
