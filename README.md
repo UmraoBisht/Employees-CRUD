@@ -12,7 +12,7 @@ A simple CRUD application where users can see a list of Employees and add a new 
 
 - **Front-End**: React.js
 - **Back-End**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB Atlas (not able connect cosmocloud due to some error that's why I used MongoDB Atlas)
 
 ## Prerequisites
 
