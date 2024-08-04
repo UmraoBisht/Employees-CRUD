@@ -17,7 +17,7 @@ A simple CRUD application where users can see a list of Employees and add a new 
 ## Prerequisites
 
 - Node.js and npm installed on your local machine.
-- MongoDB installed and running.
+- MongoDB installed and running or use Mongodb Atlas.
 
 ## Setup and Running the Application Locally
 
@@ -25,7 +25,7 @@ A simple CRUD application where users can see a list of Employees and add a new 
 
 
 ```bash
-https://github.com/UmraoBisht/Employees-CRUD.git
+git clone https://github.com/UmraoBisht/Employees-CRUD.git
 cd Employees-CRUD
 ```
 
