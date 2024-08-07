@@ -2,6 +2,8 @@
 
 A simple CRUD application where users can see a list of Employees and add a new Employee to the system.
 
+[Click here to View](https:/employees-crud-tawny.vercel.app)
+
 ## Features
 
 - **Employees Listing Page**: View a list of employees, open employee details, and delete employees.
