@@ -6,10 +6,11 @@ import { Trash2, User } from "lucide-react";
 
 const EmployeeList = () => {
   const [employees, setEmployees] = useState([]);
-
+  console.log(import.meta.env.VITE_API_BASE_URL);
+  
   useEffect(() => {
     axios
-      .get("/api/employees")
+      .get(`${import.meta.env.VITE_API_BASE_URL}/api/employees`)
       .then((response) => setEmployees(response.data))
       .catch((error) => console.error("Error fetching employees:", error));
   }, []);

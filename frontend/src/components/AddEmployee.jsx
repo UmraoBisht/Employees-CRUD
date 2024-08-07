@@ -18,7 +18,7 @@ const AddEmployee = () => {
   const addEmployee = (e) => {
     e.preventDefault();
     axios
-      .post("/api/employees", {
+      .post(`${import.meta.env.VITE_API_BASE_URL}/api/employees`, {
         name,
         address,
         city,
