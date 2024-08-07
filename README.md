@@ -2,7 +2,7 @@
 
 A simple CRUD application where users can see a list of Employees and add a new Employee to the system.
 
-[Click here to View](https://semployees-crud-tawny.vercel.app)
+[Click here to View](https://employees-crud-tawny.vercel.app/)
 
 ## Features
 
