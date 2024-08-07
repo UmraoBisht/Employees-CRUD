@@ -9,7 +9,7 @@ export default defineConfig({
       '/api': {
         target: "https://employees-crud-melj.onrender.com",
         changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, ''),
+        rewrite: (path) => path.replace(/^\/api/, '/api'),
       },
     },
   }
